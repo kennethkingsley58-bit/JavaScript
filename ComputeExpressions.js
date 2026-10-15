@@ -32,4 +32,22 @@ console.log(`Average speed in Miles per hour is ${speedInMilesPerHour}`)
 
 
 
-
+//function ConvertToMiles(number){
+//    return number / 1.6
+//}
+//
+//function ConvertToHours(number, numInSec){
+//    return (number / 60) + (numInSec / (60 * 60))
+// 
+//}
+//
+//function AverageSpeed(number, num, numInSec){
+//    return ConvertToMiles(number) / ConvertToHours(num,numInSec)
+//}
+//
+//let speed = 14
+//let time = 45
+//let seconds = 30
+//
+//let Average = AverageSpeed(speed, time, seconds)
+//console.log(`The average is: ${Average}mph`)
